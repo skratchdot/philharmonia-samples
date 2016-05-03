@@ -54,11 +54,10 @@ wget http://www.philharmonia.co.uk/assets/audio/samples/percussion/percussion.zi
 
 The original license is found on the
 http://www.philharmonia.co.uk/explore/make_music
-site.  It is included below:
-
-```
+site.  It is included below:  
+  
+  
 License: You are free to use these samples as you wish, including releasing them as part of a commercial work. The only restriction is they must not be sold or made available 'as is' (i.e. as samples or as a sampler instrument).
 
 Creative Commons Licence
 This work by Philharmonia Orchestra is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
-````
